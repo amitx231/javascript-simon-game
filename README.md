@@ -49,7 +49,6 @@ javascript-simon-game/
 ├── style.css
 ├── app.js
 ├── README.md
-├── .gitignore
 ├── .nojekyll
 ├── favicon.svg
 └── screenshots/
