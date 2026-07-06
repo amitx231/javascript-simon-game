@@ -15,6 +15,10 @@ The game challenges players to remember and repeat an increasingly long sequence
 - 🎨 Visual feedback for user and game actions
 - 🏆 High score tracking (Current Session)
 - ❌ Game Over screen with restart option
+- 🔄 Restart game after Game Over
+- 📱 Mobile Touch Support
+- 💾 Save High Score using Local Storage
+- 📱 Responsive design for desktop and mobile devices
 
 ---
 
@@ -52,9 +56,9 @@ javascript-simon-game/
 ├── .nojekyll
 ├── favicon.svg
 └── screenshots/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    └── screenshot3.png
+    ├── gameStart.jpeg
+    ├── gamePlay.jpeg
+    └── gameOver.jpeg
 ```
 
 ---
@@ -74,15 +78,15 @@ javascript-simon-game/
 
 ### Game Start
 
-![Game Start](screenshots/screenshot1.png)
+![Game Start](screenshots/gameStart.jpeg)
 
 ### Gameplay
 
-![Gameplay](screenshots/screenshot2.png)
+![Gameplay](screenshots/gamePlay.jpeg)
 
 ### Game Over
 
-![Game Over](screenshots/screenshot3.png)
+![Game Over](screenshots/gameOver.jpeg)
 
 ---
 
@@ -103,9 +107,7 @@ While building this project, I practiced:
 
 ## 🔮 Future Improvements
 
-- 💾 Save High Score using Local Storage
 - 🎵 Add Sound Effects
-- 📱 Mobile Touch Support
 - 🌙 Dark Mode
 - 🎮 Difficulty Levels
 - ⏸ Pause and Resume Game
